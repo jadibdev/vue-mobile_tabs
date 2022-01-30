@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "vue-mobile",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

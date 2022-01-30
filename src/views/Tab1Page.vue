@@ -47,27 +47,10 @@ export default  {
 </script>
 
 <style>
-
-img {
-  margin-top: 30px;
-  height: 33%;
-  margin-left: 30px;
-}
-
-#list {
-  margin-top: 30px;
-  margin-left: 20px;
-  margin-right: 
-}
-
 #fb-button {
-  align-items: center;
-  margin-left: 33%;
-  margin-top: 40px;
-  color: white;
+ margin-left: 30px;
+ margin-top: 30px;
+ color: white
 }
 
-ion-icon {
-  font-size: 64px;
-}
 </style>

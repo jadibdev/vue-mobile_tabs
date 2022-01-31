@@ -12,9 +12,9 @@
         </ion-toolbar>
       </ion-header>
 
-      <img src="../fb-stairs.png" alt="facebook pic"/>
+      <img src="../mac-facebook.jpeg" alt="facebook pic"/>
 
-      <!-- List of fbmp services -->
+      <!-- List of fbmp services 
       <ion-list id="list">
         <ion-item>
           <ion-label>Post your inventory on FBMP</ion-label>
@@ -28,7 +28,7 @@
         </ion-item>
       </ion-list>
 
-      <ion-button id="fb-button" fill="solid">Set up FBMP</ion-button>
+      <ion-button id="fb-button" fill="solid">Set up FBMP</ion-button>-->
 
       
       <!--<ExploreContainer name="Tab 1 page" />-->
@@ -42,15 +42,13 @@ import { IonPage, IonHeader, IonToolbar, IonTitle, IonContent, IonIcon } from '@
 //import ExploreContainer from '@/components/ExploreContainer.vue';
 
 export default  {
-  components: { IonIcon, IonHeader, IonToolbar, IonTitle, IonContent, IonPage }
+  components: { IonHeader, IonToolbar, IonTitle, IonContent, IonPage }
 }
 </script>
 
 <style>
-#fb-button {
- margin-left: 30px;
- margin-top: 30px;
- color: white
-}
+ img {
+   margin: 150px auto;
+ }
 
 </style>

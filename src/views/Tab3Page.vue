@@ -14,7 +14,7 @@
       
      <img src="../tablet.png" alt="facebook pic"/>
 
-      <!-- List of fbmp services -->
+      <!-- List of fbmp services
       <ion-list id="list">
         <ion-item>
           <ion-label>Sales Process Organized</ion-label>
@@ -28,7 +28,7 @@
         </ion-item>
       </ion-list>
 
-      <ion-button id="fb-button" fill="solid">Set up CRM</ion-button>
+      <ion-button id="fb-button" fill="solid">Set up CRM</ion-button>-->
 
       <!-- <ExploreContainer name="Tab 3 page" /> -->
     </ion-content>
@@ -45,10 +45,6 @@ export default  {
 </script>
 
 <style>
-#fb-button {
- margin-left: 30px;
- margin-top: 30px;
- color: white
-}
+
 
 </style>
